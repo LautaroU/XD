@@ -1,0 +1,108 @@
+body {
+    background-color: green;
+}
+.name {
+    text-align: center;
+    font-size: 100px;
+    color: white;
+}
+
+.description {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.photo {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+   
+    
+}
+.fotito {
+    display: flex;
+    height: 400px;
+    width: 250px;
+    
+}
+
+.masFotos {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px
+}
+
+.fotitos2 {
+    display: flex;
+    height: 200px;
+    width: 200px;
+}
+
+img {
+    
+    border: yellow solid 2px;
+}
+.a {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.texto {
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+    font-size: 30px;
+    color: white;
+    align-items: center;
+}
+
+.carta {
+    display: flex;
+    justify-content: center;
+}
+
+.fotoCaner {
+    display: flex;
+    height: 100px;
+    width: 100px;
+    align-content: center;
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.cajitaNaraja{
+    display: flex;
+    background-color: orange;
+    flex-direction: column;
+    padding: 20px;
+    
+}
+
+.nombre {
+    font-size: 70px;
+    color: yellow;
+    justify-content: center;
+    border-bottom: black solid 3px;
+}
+
+.descr {
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+    color:black;
+    
+}
+
+.donate {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
